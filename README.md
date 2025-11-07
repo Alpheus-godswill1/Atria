@@ -101,17 +101,21 @@ http://127.0.0.1:4000/
 
 ## Screenshots of Project
 
-### Contact Form Interface
+<div align="center">
+  <p><b>Contact Form Interface</b></p>
+  <img src="projectimages/contact_frontend.png" width="400"/>
+</div>
 
-![Contact Form](projectimages/contact_frontend.png)
+<div align="center">
+  <p><b>Flash Message After Submission</b></p>
+  <img src="projectimages/flash_message_above.png" width="400"/>
+</div>
 
-### Flash Message After Submission
+<div align="center">
+  <p><b>Stored Messages (JSON)</b></p>
+  <img src="projectimages/Json_message_collected.png" width="400"/>
+</div>
 
-![Flash Message](projectimages/flash_message_above.png)
-
-### JSON File Showing Stored Messages
-
-![JSON Messages](projectimages/Json_message_collected.png)
 
 ---
 
