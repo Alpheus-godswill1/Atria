@@ -103,17 +103,17 @@ http://127.0.0.1:4000/
 
 <div align="left">
   <p><b>Contact Form Interface</b></p>
-  <img src="projectimages/contact_frontend.png" width="600"/>
+  <img src="projectimages/contact_frontend.png" width="500"/>
 </div>
 
-<div align="center">
+<div align="left">
   <p><b>Flash Message After Submission</b></p>
-  <img src="projectimages/flash_message_above.png" width="400"/>
+  <img src="projectimages/flash_message_above.png" width="500"/>
 </div>
 
-<div align="center">
+<div align="left">
   <p><b>Stored Messages (JSON)</b></p>
-  <img src="projectimages/Json_message_collected.png" width="400"/>
+  <img src="projectimages/Json_message_collected.png" width="500"/>
 </div>
 
 
