@@ -101,9 +101,9 @@ http://127.0.0.1:4000/
 
 ## Screenshots of Project
 
-<div align="center">
+<div align="left">
   <p><b>Contact Form Interface</b></p>
-  <img src="projectimages/contact_frontend.png" width="400"/>
+  <img src="projectimages/contact_frontend.png" width="600"/>
 </div>
 
 <div align="center">
