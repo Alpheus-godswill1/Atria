@@ -31,8 +31,8 @@ This repository provides a Flask-based contact form application that captures us
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/contact-form-flask.git
-cd contact-form-flask
+git clone https://github.com/your-username/Atria.git
+cd Atria
 ```
 
 ### 2. Create and Activate a Virtual Environment
