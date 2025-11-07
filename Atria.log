@@ -14,3 +14,59 @@
 2025-11-07 18:16:26,159 - INFO - 127.0.0.1 - - [07/Nov/2025 18:16:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
 2025-11-07 18:17:01,449 - INFO -  * Detected change in '/Users/alpheusgodswill/Atria/app.py', reloading
 2025-11-07 18:17:01,567 - INFO -  * Restarting with stat
+2025-11-07 18:18:52,160 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:4000
+2025-11-07 18:18:52,161 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-07 18:18:52,163 - INFO -  * Restarting with stat
+2025-11-07 18:18:52,732 - WARNING -  * Debugger is active!
+2025-11-07 18:18:52,776 - INFO -  * Debugger PIN: 553-673-690
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:4000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 553-673-690
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2025 18:19:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2025 18:19:29] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:__main__:The form was submitted: 
+INFO:__main__:Loading to see if there is data in json file
+INFO:__main__:Data saved to JSON file successfully
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2025 18:19:43] "[32mPOST /contactform/ HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2025 18:19:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2025 18:19:43] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/alpheusgodswill/Atria/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 553-673-690
+INFO:werkzeug: * Detected change in '/Users/alpheusgodswill/Atria/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+2025-11-07 18:20:25,389 - WARNING -  * Debugger is active!
+2025-11-07 18:20:25,429 - INFO -  * Debugger PIN: 553-673-690
+2025-11-07 18:31:22,030 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:4000
+2025-11-07 18:31:22,031 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-07 18:31:22,033 - INFO -  * Restarting with stat
+2025-11-07 18:31:22,682 - WARNING -  * Debugger is active!
+2025-11-07 18:31:22,719 - INFO -  * Debugger PIN: 553-673-690
+2025-11-07 18:33:50,389 - INFO - The form was submitted: 
+2025-11-07 18:33:50,399 - INFO - Loading to see if there is data in json file
+2025-11-07 18:33:50,399 - INFO - Data saved to JSON file successfully
+2025-11-07 18:33:50,402 - INFO - 127.0.0.1 - - [07/Nov/2025 18:33:50] "[32mPOST /contactform/ HTTP/1.1[0m" 302 -
+2025-11-07 18:33:50,441 - INFO - 127.0.0.1 - - [07/Nov/2025 18:33:50] "GET / HTTP/1.1" 200 -
+2025-11-07 18:33:50,548 - INFO - 127.0.0.1 - - [07/Nov/2025 18:33:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-07 18:33:57,691 - INFO - 127.0.0.1 - - [07/Nov/2025 18:33:57] "GET / HTTP/1.1" 200 -
+2025-11-07 18:33:57,772 - INFO - 127.0.0.1 - - [07/Nov/2025 18:33:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-07 18:34:05,227 - INFO - 127.0.0.1 - - [07/Nov/2025 18:34:05] "GET / HTTP/1.1" 200 -
+2025-11-07 18:34:05,313 - INFO - 127.0.0.1 - - [07/Nov/2025 18:34:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-07 18:34:46,968 - INFO - The form was submitted: 
+2025-11-07 18:34:46,973 - INFO - Loading to see if there is data in json file
+2025-11-07 18:34:46,977 - INFO - Data saved to JSON file successfully
+2025-11-07 18:34:46,979 - INFO - 127.0.0.1 - - [07/Nov/2025 18:34:46] "[32mPOST /contactform/ HTTP/1.1[0m" 302 -
+2025-11-07 18:34:46,987 - INFO - 127.0.0.1 - - [07/Nov/2025 18:34:46] "GET / HTTP/1.1" 200 -
+2025-11-07 18:34:47,102 - INFO - 127.0.0.1 - - [07/Nov/2025 18:34:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-07 18:35:23,470 - INFO - The form was submitted: 
+2025-11-07 18:35:23,471 - INFO - Loading to see if there is data in json file
+2025-11-07 18:35:23,472 - INFO - Data saved to JSON file successfully
+2025-11-07 18:35:23,477 - INFO - 127.0.0.1 - - [07/Nov/2025 18:35:23] "[32mPOST /contactform/ HTTP/1.1[0m" 302 -
+2025-11-07 18:35:23,488 - INFO - 127.0.0.1 - - [07/Nov/2025 18:35:23] "GET / HTTP/1.1" 200 -
+2025-11-07 18:35:23,586 - INFO - 127.0.0.1 - - [07/Nov/2025 18:35:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
