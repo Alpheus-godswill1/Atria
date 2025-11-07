@@ -22,20 +22,7 @@ This repository provides a Flask-based contact form application that captures us
 
 ## Project Structure
 
-.
-├── app.py
-├── contactmessage/
-│   └── message.json
-├── static/
-│   └── style.css
-├── templates/
-│   └── contact.html
-├── venv/
-├── .env
-├── .gitignore
-├── Atria.log
-├── README.md
-└── requirements.txt
+![Project Structure](projectstructure/projectstruc.png)
 
 ---
 
