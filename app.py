@@ -41,7 +41,7 @@ def contactform():
                 with open(json_path, 'r', encoding='utf-8') as f:
                    data =  json.load(f)
                    logger.info("Loading to see if there is data in json file")
-             else:
+            else:
                 data = []
                 logger.info("No JSON file found. Creating a new one")
 
